@@ -1,0 +1,6 @@
+# Ignore the following
+*.class
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
